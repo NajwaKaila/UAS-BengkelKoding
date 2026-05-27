@@ -27,3 +27,9 @@ house_price.csv
 - Menggunakan dataset house_price.csv
 - Melakukan exploratory data analysis
 - Membuat visualisasi data
+### Minggu 2
+- Data preprocessing
+- Missing value handling
+- Encoding categorical data
+- Train-test split
+- Feature scaling
