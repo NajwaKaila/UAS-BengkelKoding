@@ -33,3 +33,10 @@ house_price.csv
 - Encoding categorical data
 - Train-test split
 - Feature scaling
+### Minggu 3
+- Training Linear Regression
+- Training Random Forest Regressor
+- Evaluasi model menggunakan MAE, RMSE, dan R² Score
+- Analisis feature importance
+- Menentukan model terbaik
+- Menyimpan model untuk deployment
