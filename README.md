@@ -2,8 +2,6 @@
 
 ## Nama
 Najwa Kaila Nuraisyah
-
-## NIM
 A11.2023.15379
 
 ## Topik Project
@@ -40,3 +38,22 @@ house_price.csv
 - Analisis feature importance
 - Menentukan model terbaik
 - Menyimpan model untuk deployment
+### Minggu 4
+- Membuat antarmuka aplikasi
+- Menghubungkan model Machine Learning
+- Membuat form input pengguna
+- Menampilkan hasil prediksi harga rumah
+
+### Menjalankan Aplikasi
+
+Install dependency:
+
+pip install streamlit pandas scikit-learn numpy
+
+Jalankan aplikasi:
+
+python -m streamlit run app/app.py
+
+Aplikasi akan berjalan pada:
+
+http://localhost:8501
