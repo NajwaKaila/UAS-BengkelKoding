@@ -43,17 +43,28 @@ house_price.csv
 - Menghubungkan model Machine Learning
 - Membuat form input pengguna
 - Menampilkan hasil prediksi harga rumah
+## Minggu 5
+- Melakukan pengujian aplikasi
+- Memperbaiki model prediksi
+- Finalisasi tampilan aplikasi
+- Menyusun dokumentasi proyek
+- Melengkapi repository GitHub
+- Finalisasi project untuk presentasi dan pengumpulan UAS
 
 ### Menjalankan Aplikasi
 
-Install dependency:
+-Install dependency:
+
+pip install -r requirements.txt
+
+-Install dependency:
 
 pip install streamlit pandas scikit-learn numpy
 
-Jalankan aplikasi:
+-Jalankan aplikasi:
 
 python -m streamlit run app/app.py
 
-Aplikasi akan berjalan pada:
+-Aplikasi akan berjalan pada:
 
 http://localhost:8501
