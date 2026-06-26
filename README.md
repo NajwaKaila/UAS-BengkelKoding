@@ -11,12 +11,12 @@ Prediksi Harga Rumah
 house_price.csv
 
 ## Tools yang Digunakan
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Streamlit
+-streamlit
+-pandas
+-numpy
+-scikit-learn
+-matplotlib
+-seaborn
 
 ## Progress
 
